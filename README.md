@@ -54,16 +54,16 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 ### Best of History Websites
 [Find your information](https://besthistorysites.net/), and then paste the URL into the [opt-out form](https://besthistorysites.net/opt-out). Then, type in your email address on the following page and click on the "remove" link. You'll need to click on the opt-out link sent to you via email.
 
-### ☠ 💐 BeenVerified
+### ✅ ☠ 💐 BeenVerified
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
-### ☠ 💐 CheckPeople
+### ✅ ☠ 💐 CheckPeople
 Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select “remove record.” You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### Classmates.com
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
 
-### ☠ 💐 ClustrMaps
+### ✅ ☠ 💐 ClustrMaps
 [Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you to check off anything associated with your account that you want removed.
 
 ### CocoFinder
