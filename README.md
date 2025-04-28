@@ -8,23 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
-
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 11, 2025 to add Best History Websites, and on March 23, 2025 to remove the California-based data broker BackgroundAlert, which [shut down its operations](https://cppa.ca.gov/announcements/2025/20250227.html) in response to a settlement with the Enforcement Division of the California Privacy Protection Agency (CPPA) for failing to register and pay an annual fee, as required by the Delete Act.
-
-How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
-
-Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
-
-_Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I update this regularly, but it’s not always current. There are sites I either don’t know about or do not include because there is no free way to see if they have data before requesting removal, or to provide the specific URLs needed for removal. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
-
-CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
-
-## Search Engines
-If you've been doxed, you can remove your contact info [from Google Search](https://support.google.com/websearch/troubleshooter/3111061) and [from Bing](https://www.microsoft.com/en-ca/concern/bing).
-
-Google allows you to remove non-consensual or intimate personal images, involuntary fake pornography, irrelevant pornography from Google search results for your name, content about you on sites with exploitative removal practices, and several other categories of information.
-
-Google has a free service called [Results About You](https://support.google.com/websearch/answer/12719076), that allows you to search for your data and ask for it to be deindexed.
+| ✅      | removal completed                                    |
 
 ## People Search Sites
 
@@ -99,7 +83,7 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 ### InfoTracer
 [Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
 
-### ☠ 💐 Intelius
+### ✅ ☠ 💐 Intelius
 [Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
 
 ### ☠ 💐 📞 MyLife
