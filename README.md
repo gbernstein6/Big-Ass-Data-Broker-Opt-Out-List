@@ -92,7 +92,7 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 ### NeighborReport
 [Search for your name, address or phone number](https://neighbor.report/), and then [remove the report](https://neighbor.report/remove). You will need to verify the opt-out request via email.
 
-### ☠ 💐 Nuwber
+### ✅ ☠ 💐 Nuwber
 [Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). Try "filter by state" to isolate the "person" URL you need. Don’t bother trying to get a full report; it’ll just waste your time with multiple steps and deceptive design trying to get you to pay for a subscription. If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out. 
 
 ### ☠ PeekYou
