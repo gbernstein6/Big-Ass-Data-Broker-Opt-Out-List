@@ -113,13 +113,13 @@ PimEyes is an online face search engine that uses face recognition to perform a 
 ### PrivateRecords
 Search for your name and state and [opt out](https://www.privaterecords.net/optOut/name/landing).
 
-### ☠ 💐 PublicDataUSA
+### ✅ ☠ 💐 PublicDataUSA
 Find [your information](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address on the [remove page](https://www.publicdatausa.com/remove.php).
 
 ### PropertyRecs
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
-### ☠ 💐 Radaris
+### ✅ ☠ 💐 Radaris
 Find [your information](https://radaris.com/). Make sure the site you are clicking on is a Radaris link, rather than OneRep or Nuwber. (It is possible you do not have a Radaris listing.) Once you find your information, copy the URL as you’ll need it when you fill out [a series of forms](https://radaris.com/control/privacy), hitting “next” and waiting for new pages to load. 
 
 ### Rehold
@@ -140,13 +140,13 @@ Find [your information](https://www.smartbackgroundchecks.com/). Then, [opt out]
 ### Social Catfish
 Find [your information](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to the [opt-out page](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
 
-### ☠ 💐 Spokeo
+### ✅ ☠ 💐 Spokeo
 Find [your information](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address on the [opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### SpyFly
 Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
-### ☠ 💐 That’s Them
+### ✅ ☠ 💐 That’s Them
 Find [your information](https://thatsthem.com/). If it shows up, try to [opt out](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
 
 ### TruePeopleSearch
